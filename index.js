@@ -57,12 +57,15 @@ for (var i=0; i < sensorCount; i++) {
 var baseMoment = moment("01-01-2016", "MM-DD-YYYY");
 var toMoment = moment(baseMoment).add(days, duration);
 
-
 for (var i=0; i < sensors.length; i++) {
 	var ts = moment(baseMoment);
 	var sensor = sensors[i];
-	var path =  basePath + "/sensorid=" + sensor.sensorId +  "/";
+	var path =  basePath + "/sensorid=" + sensor.sensorId;
+
 	
+	fs.mkdirSync(path);
+	
+	path = path + "/";
 
 	var ambientAdj = ambientBase + Math.random() * 10 - 5;
 
