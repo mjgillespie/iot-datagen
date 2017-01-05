@@ -1,0 +1,18 @@
+{
+  "name": "master-builder",
+  "version": "1.0.0",
+  "description": "A project to generate data for the master builder project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.7.21",
+    "moment": "^2.17.1",
+    "q": "^1.4.1",
+    "randomstring": "^1.1.5",
+    "rimraf": "^2.5.4"
+  }
+}
