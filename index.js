@@ -59,7 +59,7 @@ var promise = Q();
 for (var i=0; i < sensors.length; i++) {
 	var ts = moment(baseMoment);
 	var sensor = sensors[i];
-	var path =  basePath + "/sensorid=" + sensorId;
+	var path =  basePath + "/sensorid=" + sensor.sensorId;
 
 	if (fs.existsSync(path)) {
 		fs.rmdirSync(path);
