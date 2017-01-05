@@ -3,12 +3,15 @@ const Q = require('q');
 var randomstring = require("randomstring");
 var moment = require('moment');
 var rimraf = require('rimraf');
+var sys = require('sys')
+var exec = require('child_process').exec;
 
 var sensors = []
 
+var duration = "years";
 var timeInterval = 5; // 5 min
 var days = 1;
-var sensorCount = 1000;
+var sensorCount = 1;
 var sensorEfficiency = 100000;
 
 var ambientBase = 68;
@@ -52,7 +55,7 @@ for (var i=0; i < sensorCount; i++) {
 }
 
 var baseMoment = moment("01-01-2016", "MM-DD-YYYY");
-var toMoment = moment(baseMoment).add(days, 'days');
+var toMoment = moment(baseMoment).add(days, duration);
 
 var promise = Q();
 
@@ -85,7 +88,7 @@ for (var i=0; i < sensors.length; i++) {
 		
 		var logData = "\"" + sensor.sensorId + "\"," + convertTime(ts) + ", " + (Math.floor(0.5 + ambientActual*10))/10 +  ", " + sensor.setTemp + ", " + (Math.floor(waterTemp*10 + 0.5)) / 10 + ", " + heaterMinutes;
 		console.log(logData);
-		var logFile = path + 'sensor_data.' +  ts.format('YYYY-MM-DD'); + '.log';
+		var logFile = path + 'sensor_data.' +  ts.format('YYYY-MM-DD') + '.log';
 
 		fs.appendFileSync(logFile, logData + '\n');
 	
@@ -96,4 +99,9 @@ for (var i=0; i < sensors.length; i++) {
 	console.log('sensor efficency:', sensor.efficiency, sensor.thermostat);
 }
 
+// or more concisely
+var sys = require('sys')
+var exec = require('child_process').exec;
+function puts(error, stdout, stderr) { sys.puts(stdout) }
+exec("aws s3 sync data/ s3://mjg-master-builder/sensor-data", puts);
 
