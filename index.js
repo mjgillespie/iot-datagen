@@ -11,7 +11,7 @@ var sensors = []
 var duration = "years";
 var timeInterval = 5; // 5 min
 var days = 1;
-var sensorCount = 1;
+var sensorCount = 100;
 var sensorEfficiency = 100000;
 
 var ambientBase = 68;
