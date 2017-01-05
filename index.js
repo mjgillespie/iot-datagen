@@ -8,7 +8,7 @@ var sensors = []
 
 var timeInterval = 5; // 5 min
 var days = 1;
-var sensorCount = 1;
+var sensorCount = 1000;
 var sensorEfficiency = 100000;
 
 var ambientBase = 68;
