@@ -82,7 +82,7 @@ for (var i=0; i < sensors.length; i++) {
 		var heaterMinutes = Math.ceil( timeInterval * 60 * (Math.min(deviceMax, sensor.setTemp) - ambientActual) / (deviceMax-ambientActual));
 		
 		var logData = "\"" + sensor.sensorId + "\"," + convertTime(ts) + ", " + (Math.floor(0.5 + ambientActual*10))/10 +  ", " + sensor.setTemp + ", " + (Math.floor(waterTemp*10 + 0.5)) / 10 + ", " + heaterMinutes;
-		var logFile = path + 'sensor_data.' +  ts.format('YYYY-MM') + '.log';
+		var logFile = path + 'sensor_data.' +  ts.format('YYYY') + '.log';
 
 		fs.appendFileSync(logFile, logData + '\n');
 	
