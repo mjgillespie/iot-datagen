@@ -98,5 +98,5 @@ var sys = require('sys')
 var exec = require('child_process').exec;
 function puts(error, stdout, stderr) { sys.puts(stdout) }
 // aws s3 rm s3://mjg-master-builder/sensor-data --recursive
-exec("aws s3 sync data/ s3://mjg-master-builder/sensor-data", puts);
+//exec("aws s3 sync data/ s3://mjg-master-builder/sensor-data", puts);
 
