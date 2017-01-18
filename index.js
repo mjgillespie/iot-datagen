@@ -65,7 +65,7 @@ fs.writeFile('sensors.json', JSON.stringify(sensors, null, 4));
 
 sensors = JSON.parse(fs.readFileSync('sensors.json', 'utf8'));
  
-var baseMoment = moment(baseMoment).add(-60, 'minutes');
+var baseMoment = moment(baseMoment).add(-1, 'minutes');
 var toMoment = moment();
 
 if (process.argv[2] == "--lastyear") {
