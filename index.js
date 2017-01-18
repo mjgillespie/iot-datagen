@@ -8,7 +8,7 @@ var exec = require('child_process').exec;
 
 var sensors = []
 
-var duration = "years";
+var duration = "months";
 var timeInterval = 5; // 5 min
 var days = 1;
 var sensorCount = 500;
