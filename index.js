@@ -69,7 +69,7 @@ var baseMoment = moment(baseMoment).add(-60, 'minutes');
 var toMoment = moment();
 
 if (process.argv[2] == "--lastyear") {
-	baseMoment = moment("01-01-2016", "MM-DD-YYYY");
+	baseMoment = moment(process.argv[3] + "-01-2016", "MM-DD-YYYY");
 	toMoment = moment(baseMoment).add(days, duration);
 }
 
