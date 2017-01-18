@@ -85,14 +85,6 @@ for (var i=0; i < sensors.length; i++) {
 	var ts = moment(baseMoment);
 	var sensor = sensors[i];
 //	var path =  basePath + "/sensorid=" + sensor.sensorId;
-
-	if (process.argv[2] == "--lastyear") {
-		tempFile = randomstring.generate({
-				length: 12,
-				capitalization: 'uppercase',
-  				charset: 'alphanumeric'
-			});
-	}
 //	fs.mkdirSync(path);
 	
 	//path = path + "/";
