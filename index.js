@@ -33,7 +33,7 @@ function convertTime(m){
 function minuteOfDay(m){
 	return m.hour()*60 + m.minute();
 }
-
+/*
 for (var i=0; i < sensorCount; i++) {
 	var sensorId = randomstring.generate({
 				length: 8,
@@ -51,21 +51,38 @@ for (var i=0; i < sensorCount; i++) {
 	};
 	sensors.push(sensor);
 	
-	console.log('sensor:', sensor);
 }
 
-var baseMoment = moment("01-01-2016", "MM-DD-YYYY");
-var toMoment = moment(baseMoment).add(days, duration);
+
+
+fs.writeFile('sensors.json', JSON.stringify(sensors, null, 4));
+*/
+
+sensors = JSON.parse(fs.readFileSync('sensors.json', 'utf8'));
+ 
+var baseMoment = moment(baseMoment).add(-60, 'minutes');
+var toMoment = moment();
+
+if (process.argv[2] == "--lastyear") {
+	baseMoment = moment("01-01-2016", "MM-DD-YYYY");
+	toMoment = moment(baseMoment).add(days, duration);
+}
+
 
 for (var i=0; i < sensors.length; i++) {
 	var ts = moment(baseMoment);
 	var sensor = sensors[i];
-	var path =  basePath + "/sensorid=" + sensor.sensorId;
+//	var path =  basePath + "/sensorid=" + sensor.sensorId;
 
+	var tempFile = randomstring.generate({
+				length: 12,
+				capitalization: 'uppercase',
+  				charset: 'alphanumeric'
+			});
 	
-	fs.mkdirSync(path);
+//	fs.mkdirSync(path);
 	
-	path = path + "/";
+	//path = path + "/";
 
 	var ambientAdj = ambientBase + Math.random() * 10 - 5;
 
@@ -79,10 +96,10 @@ for (var i=0; i < sensors.length; i++) {
 		
 		var waterTemp = Math.min(deviceMax, sensor.setTemp + Math.random()* tempVariation - tempVariation/2 );
 		
-		var heaterMinutes = Math.ceil( timeInterval * 60 * (Math.min(deviceMax, sensor.setTemp) - ambientActual) / (deviceMax-ambientActual));
+		var heaterMinutes = Math.max(0, Math.ceil( timeInterval * 60 * (Math.min(deviceMax, sensor.setTemp) - ambientActual) / (deviceMax-ambientActual)));
 		
 		var logData = "\"" + sensor.sensorId + "\"," + convertTime(ts) + ", " + (Math.floor(0.5 + ambientActual*10))/10 +  ", " + sensor.setTemp + ", " + (Math.floor(waterTemp*10 + 0.5)) / 10 + ", " + heaterMinutes;
-		var logFile = path + 'sensor_data.' +  ts.format('YYYY') + '.log';
+		var logFile = basePath + '/sensor_data.' + sensor.sensorId + '.' + tempFile + '.log';
 
 		fs.appendFileSync(logFile, logData + '\n');
 	
@@ -92,11 +109,4 @@ for (var i=0; i < sensors.length; i++) {
 
 	console.log('sensor efficency:', sensor.sensorId, sensor.efficiency, sensor.thermostat);
 }
-
-// or more concisely
-var sys = require('sys')
-var exec = require('child_process').exec;
-function puts(error, stdout, stderr) { sys.puts(stdout) }
-// aws s3 rm s3://mjg-master-builder/sensor-data --recursive
-//exec("aws s3 sync data/ s3://mjg-master-builder/sensor-data", puts);
 

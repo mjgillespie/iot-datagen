@@ -1,0 +1,3002 @@
+[
+    {
+        "sensorId": "PJD7K8A3",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.884842343787857
+    },
+    {
+        "sensorId": "94HTK1PC",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9335260740610251
+    },
+    {
+        "sensorId": "U0K21P0O",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.6684845361644413
+    },
+    {
+        "sensorId": "5BOPRRKM",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9611477339025649
+    },
+    {
+        "sensorId": "IUW3IKD6",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9387998792845039
+    },
+    {
+        "sensorId": "01BX3LAD",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9799093862181734
+    },
+    {
+        "sensorId": "TF4NR1RG",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9930939634878193
+    },
+    {
+        "sensorId": "4E475BV8",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9485057502501503
+    },
+    {
+        "sensorId": "IOZ8NREW",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9890346092347799
+    },
+    {
+        "sensorId": "XWDMOL0C",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9494916840354494
+    },
+    {
+        "sensorId": "H81E9QFY",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9674747525826666
+    },
+    {
+        "sensorId": "EZBZYOS9",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9672255631652094
+    },
+    {
+        "sensorId": "G20IKJRX",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.6885586451879538
+    },
+    {
+        "sensorId": "8AQ71FU9",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.7400888202055503
+    },
+    {
+        "sensorId": "OOE0G2HC",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9864125227782615
+    },
+    {
+        "sensorId": "43LK7A4S",
+        "setTemp": 89,
+        "thermostat": true,
+        "efficiency": 0.9845762182416588
+    },
+    {
+        "sensorId": "BW6KIG94",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9917280639936441
+    },
+    {
+        "sensorId": "QU1A3X07",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9284869681579213
+    },
+    {
+        "sensorId": "J5S90O4S",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.991548267486737
+    },
+    {
+        "sensorId": "CNDJY3KP",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8243579137718593
+    },
+    {
+        "sensorId": "0LDEUC30",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9437019985395352
+    },
+    {
+        "sensorId": "K2MVISJP",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.940931322528062
+    },
+    {
+        "sensorId": "363R1PEU",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9263171609453954
+    },
+    {
+        "sensorId": "TAD2E3F4",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.963362228937228
+    },
+    {
+        "sensorId": "PUYSPOFB",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8781693653790701
+    },
+    {
+        "sensorId": "HUE8ZE1U",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9695971565240054
+    },
+    {
+        "sensorId": "8YCQ4A91",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9781780545487632
+    },
+    {
+        "sensorId": "QJ4K0SQ1",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9414066726099619
+    },
+    {
+        "sensorId": "55J14HRZ",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.953367304739771
+    },
+    {
+        "sensorId": "8HBJEIZZ",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9940154204190159
+    },
+    {
+        "sensorId": "W5LPK9QA",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9583142719035405
+    },
+    {
+        "sensorId": "JAK88H1S",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9597936274825102
+    },
+    {
+        "sensorId": "4VD67Q9G",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9366994635359622
+    },
+    {
+        "sensorId": "OFBGHERQ",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9776224138202958
+    },
+    {
+        "sensorId": "AA0DFMYZ",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9433842146333522
+    },
+    {
+        "sensorId": "MU2Q8ZTH",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9172904539704456
+    },
+    {
+        "sensorId": "BD6AY04Z",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8809906775172488
+    },
+    {
+        "sensorId": "ODFZZGH1",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8694933251601243
+    },
+    {
+        "sensorId": "21ALS67X",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9933024970806148
+    },
+    {
+        "sensorId": "UX3AR30J",
+        "setTemp": 84,
+        "thermostat": true,
+        "efficiency": 0.7234210461004756
+    },
+    {
+        "sensorId": "J6D2WIAY",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9423007076784623
+    },
+    {
+        "sensorId": "YGEKG6NN",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8999484106248765
+    },
+    {
+        "sensorId": "64R9Z5DX",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9487505427059159
+    },
+    {
+        "sensorId": "I9R4DRG8",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.808978476694872
+    },
+    {
+        "sensorId": "XYGYRW6F",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.996146075307189
+    },
+    {
+        "sensorId": "5B0TGUOK",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9104362677678672
+    },
+    {
+        "sensorId": "3IG2QGDY",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9368559385487238
+    },
+    {
+        "sensorId": "A1CQ4W6O",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.7889754611927391
+    },
+    {
+        "sensorId": "KDIZSWXR",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.8076683867307212
+    },
+    {
+        "sensorId": "HJV8OUY2",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.8742061798932653
+    },
+    {
+        "sensorId": "AT7J1192",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9207890150465685
+    },
+    {
+        "sensorId": "IM3E0G07",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9315354390846607
+    },
+    {
+        "sensorId": "ORSAQC2U",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9567464226792456
+    },
+    {
+        "sensorId": "4NGTQII6",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9335260740610251
+    },
+    {
+        "sensorId": "S2KENMV0",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.809532838920312
+    },
+    {
+        "sensorId": "604NK1CO",
+        "setTemp": 81,
+        "thermostat": true,
+        "efficiency": 0.9856607314644135
+    },
+    {
+        "sensorId": "YSTWKORZ",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.8790652786138702
+    },
+    {
+        "sensorId": "UWEZE15C",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.8008642747565284
+    },
+    {
+        "sensorId": "X4JP96W0",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8919237247834749
+    },
+    {
+        "sensorId": "CSETTF9F",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.8452890465496455
+    },
+    {
+        "sensorId": "FUQZNXCQ",
+        "setTemp": 90,
+        "thermostat": true,
+        "efficiency": 0.9187502266877049
+    },
+    {
+        "sensorId": "57EVCOI8",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9543527616645069
+    },
+    {
+        "sensorId": "RVOI5W5R",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.943564046781194
+    },
+    {
+        "sensorId": "YBZZFIAQ",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.937282561854364
+    },
+    {
+        "sensorId": "HJP273YS",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8164133868570225
+    },
+    {
+        "sensorId": "44IUGBJS",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9950256771517525
+    },
+    {
+        "sensorId": "FDG4BH5G",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9180479556617934
+    },
+    {
+        "sensorId": "BZ5VSL5L",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9535380107408292
+    },
+    {
+        "sensorId": "B6I4KYD3",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9667441380889267
+    },
+    {
+        "sensorId": "UQHSGTL6",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.7764935229790743
+    },
+    {
+        "sensorId": "1482HOP8",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9835682944073133
+    },
+    {
+        "sensorId": "KI00IC1R",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9611259943817154
+    },
+    {
+        "sensorId": "R63MAFXR",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9905323398548813
+    },
+    {
+        "sensorId": "1JJ6Q70N",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8189082002913677
+    },
+    {
+        "sensorId": "XZG3IVUN",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9657989662681125
+    },
+    {
+        "sensorId": "6DOOYQIM",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8452065006689917
+    },
+    {
+        "sensorId": "BZ1CN1XY",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.8548546675516835
+    },
+    {
+        "sensorId": "TXKU8UBJ",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9913949554773271
+    },
+    {
+        "sensorId": "ZL3SI3TL",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.970582570480971
+    },
+    {
+        "sensorId": "LRSDRBPW",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.8812330666553105
+    },
+    {
+        "sensorId": "22KOP8IO",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.9668103492832287
+    },
+    {
+        "sensorId": "KBT3K0HN",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.8379205185043161
+    },
+    {
+        "sensorId": "6XGRFD48",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.816722021032462
+    },
+    {
+        "sensorId": "TNCOX0PE",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9315067775115973
+    },
+    {
+        "sensorId": "6PLPA023",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.94655110423565
+    },
+    {
+        "sensorId": "GJDEABYS",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9333728309922463
+    },
+    {
+        "sensorId": "63LCBKF5",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8501474135807581
+    },
+    {
+        "sensorId": "GQSV0F44",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.8999539071536795
+    },
+    {
+        "sensorId": "CT1O8HUB",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.9513561191013704
+    },
+    {
+        "sensorId": "FSI028WP",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9801051043310836
+    },
+    {
+        "sensorId": "0YV99CZ6",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.8308056299206393
+    },
+    {
+        "sensorId": "XWUHZ38E",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9801695182544397
+    },
+    {
+        "sensorId": "8SG0HY6G",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9038605698470856
+    },
+    {
+        "sensorId": "Z4OCAH2O",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9474639779687243
+    },
+    {
+        "sensorId": "YEBGLYV5",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.7941251553376589
+    },
+    {
+        "sensorId": "TR3RHL0X",
+        "setTemp": 81,
+        "thermostat": true,
+        "efficiency": 0.8648564910595387
+    },
+    {
+        "sensorId": "9BF1CFGN",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9465093080528421
+    },
+    {
+        "sensorId": "H3EBN1ND",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9417657313009536
+    },
+    {
+        "sensorId": "EKDSQE3Q",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9552021405356961
+    },
+    {
+        "sensorId": "DQ2S0XNK",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.8945542143561745
+    },
+    {
+        "sensorId": "FM83G68S",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.8788763255359072
+    },
+    {
+        "sensorId": "SVLGUXUB",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9445629681758467
+    },
+    {
+        "sensorId": "EG1HYIXA",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9495693323004234
+    },
+    {
+        "sensorId": "2V0FDWM2",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.998868710549514
+    },
+    {
+        "sensorId": "ZKO5ZRR8",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9548245274297246
+    },
+    {
+        "sensorId": "0YP4CX6G",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.8477897796623524
+    },
+    {
+        "sensorId": "AAJWWNJ6",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.915755339138269
+    },
+    {
+        "sensorId": "EJODE2U4",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.986567781111756
+    },
+    {
+        "sensorId": "M9NGYE8O",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9964497225892466
+    },
+    {
+        "sensorId": "L56GA8E8",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9888827148699335
+    },
+    {
+        "sensorId": "ED8UYTT4",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.9106138958727396
+    },
+    {
+        "sensorId": "6KDJMB2L",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.8103539493798664
+    },
+    {
+        "sensorId": "6FZUB76J",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9950973907027411
+    },
+    {
+        "sensorId": "Q9V1PRLV",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.8342692193374355
+    },
+    {
+        "sensorId": "L7TRYAXU",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8931984441568614
+    },
+    {
+        "sensorId": "2E2RE885",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.8349805124356653
+    },
+    {
+        "sensorId": "I757PI7C",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.8912063663790468
+    },
+    {
+        "sensorId": "269QGA1H",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.897557724569119
+    },
+    {
+        "sensorId": "UUWXO1Z9",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.8106003140800617
+    },
+    {
+        "sensorId": "2D5DAQ15",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9612916209614172
+    },
+    {
+        "sensorId": "GV4MSABP",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.8021023925474428
+    },
+    {
+        "sensorId": "4ETMCN33",
+        "setTemp": 70,
+        "thermostat": true,
+        "efficiency": 0.9321427465800666
+    },
+    {
+        "sensorId": "GKS957DB",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9355761163023182
+    },
+    {
+        "sensorId": "D686V2HI",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9653017760360291
+    },
+    {
+        "sensorId": "AQQN1F11",
+        "setTemp": 80,
+        "thermostat": true,
+        "efficiency": 0.9891832871491587
+    },
+    {
+        "sensorId": "ESA11FSE",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9580288730085801
+    },
+    {
+        "sensorId": "BVXMR4T8",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9977429978982271
+    },
+    {
+        "sensorId": "UW5D6CQL",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9281956114716664
+    },
+    {
+        "sensorId": "IAJ5AYLP",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9780003226369273
+    },
+    {
+        "sensorId": "ZDLNGINP",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.629843822531076
+    },
+    {
+        "sensorId": "4R8DNFRM",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.977639269697414
+    },
+    {
+        "sensorId": "GH1D68QF",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.894167327456285
+    },
+    {
+        "sensorId": "IJGWUDIZ",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.885646402650867
+    },
+    {
+        "sensorId": "BEA5U03V",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.8346722233788464
+    },
+    {
+        "sensorId": "XDAH9GTY",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.8346139327274535
+    },
+    {
+        "sensorId": "Y9RBF9Y9",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8252587581386532
+    },
+    {
+        "sensorId": "241DIQGH",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9769398190101137
+    },
+    {
+        "sensorId": "1QI847U5",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.9926876725917693
+    },
+    {
+        "sensorId": "IB3DSJP0",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9808933375228832
+    },
+    {
+        "sensorId": "SFYBZ0CR",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9920855928715924
+    },
+    {
+        "sensorId": "COXSNQPD",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.8033063881914531
+    },
+    {
+        "sensorId": "DNPSHOMZ",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9350162891375403
+    },
+    {
+        "sensorId": "AGYX2QE4",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.852779266120922
+    },
+    {
+        "sensorId": "TCGPXF10",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9484302904885442
+    },
+    {
+        "sensorId": "DFYPLIXR",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9928057021684911
+    },
+    {
+        "sensorId": "FXLMV9CC",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.805697983304378
+    },
+    {
+        "sensorId": "15EPL6SX",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9985610547589333
+    },
+    {
+        "sensorId": "0B8PLU7H",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9464288742059447
+    },
+    {
+        "sensorId": "JEKYTAXF",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9936311874299941
+    },
+    {
+        "sensorId": "PGIV7I3V",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.8241213662113547
+    },
+    {
+        "sensorId": "KKOYPVPI",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.8899049360650058
+    },
+    {
+        "sensorId": "8MSSTERE",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9495895094843952
+    },
+    {
+        "sensorId": "RZM5DY8Z",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9914342674740197
+    },
+    {
+        "sensorId": "N2SD2JIU",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.875475822631488
+    },
+    {
+        "sensorId": "MAKRQA7P",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9662523440605643
+    },
+    {
+        "sensorId": "K92TNJUP",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9895974531987575
+    },
+    {
+        "sensorId": "5LOEKGO8",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8900005260346372
+    },
+    {
+        "sensorId": "OXMUN265",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9442813248302558
+    },
+    {
+        "sensorId": "TQ0G1UAZ",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9964705311243593
+    },
+    {
+        "sensorId": "S08978DK",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.835061764917157
+    },
+    {
+        "sensorId": "EML6C3LD",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.7705081971539598
+    },
+    {
+        "sensorId": "611QUWWP",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9031138402247558
+    },
+    {
+        "sensorId": "7N3W9QJV",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9750504621872718
+    },
+    {
+        "sensorId": "RP8XJDTD",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.7322299714489573
+    },
+    {
+        "sensorId": "OHFVDGJ3",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9768162667899626
+    },
+    {
+        "sensorId": "MZ2RW0YB",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.7791176551332526
+    },
+    {
+        "sensorId": "LA64C2GA",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9720616108389123
+    },
+    {
+        "sensorId": "767T6ZE4",
+        "setTemp": 74,
+        "thermostat": true,
+        "efficiency": 0.8316000858292947
+    },
+    {
+        "sensorId": "3IK5G3DG",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9017221020858825
+    },
+    {
+        "sensorId": "S7HW7QM3",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.931583187365991
+    },
+    {
+        "sensorId": "SFVO5ZFJ",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.6945805303607328
+    },
+    {
+        "sensorId": "RVX7FUCE",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9080057988558832
+    },
+    {
+        "sensorId": "4LG891XI",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.5052678554779688
+    },
+    {
+        "sensorId": "EG5BM2NV",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.8355534585609291
+    },
+    {
+        "sensorId": "1977P7FY",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9111131977458878
+    },
+    {
+        "sensorId": "3NKK1H64",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8415591770409417
+    },
+    {
+        "sensorId": "ASUGHZTW",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.8930468189976029
+    },
+    {
+        "sensorId": "R7K163RA",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9970125076511531
+    },
+    {
+        "sensorId": "WH3A4NWD",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9769296241045232
+    },
+    {
+        "sensorId": "4V6MPFUG",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.8207060126856749
+    },
+    {
+        "sensorId": "SVC9ORFH",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9428558904902967
+    },
+    {
+        "sensorId": "JBP4AIGL",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9301896580746485
+    },
+    {
+        "sensorId": "4Q5VWSPV",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9432123604837759
+    },
+    {
+        "sensorId": "3WX149NU",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9747814807803226
+    },
+    {
+        "sensorId": "TWVSWLUM",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9593550954715114
+    },
+    {
+        "sensorId": "29HWLMDF",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.9473812400505466
+    },
+    {
+        "sensorId": "YCHW001F",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9616867608103611
+    },
+    {
+        "sensorId": "QHZGM0BK",
+        "setTemp": 72,
+        "thermostat": true,
+        "efficiency": 0.9959906690508833
+    },
+    {
+        "sensorId": "OWNSZN70",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.748104117210733
+    },
+    {
+        "sensorId": "9ZFPYXI0",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9671748788962367
+    },
+    {
+        "sensorId": "DGI5DMJT",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.8743354589617324
+    },
+    {
+        "sensorId": "F3R2A0C4",
+        "setTemp": 90,
+        "thermostat": true,
+        "efficiency": 0.9249141683523986
+    },
+    {
+        "sensorId": "XOO4UM6G",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9663905830972318
+    },
+    {
+        "sensorId": "SGFZ2EWN",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9901167787759221
+    },
+    {
+        "sensorId": "Z77UKC7N",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9482318961425567
+    },
+    {
+        "sensorId": "KJP7G942",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8581760210534324
+    },
+    {
+        "sensorId": "HFC2D7XX",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.998005579754059
+    },
+    {
+        "sensorId": "6SOXEP47",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9948037258360014
+    },
+    {
+        "sensorId": "GBMIU0W1",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9319661326386278
+    },
+    {
+        "sensorId": "QNEMY0KT",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9505187711578162
+    },
+    {
+        "sensorId": "ECFOKLHU",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9678780096520864
+    },
+    {
+        "sensorId": "EV4YTFV2",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.884786728967461
+    },
+    {
+        "sensorId": "364JV454",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.8620281603592387
+    },
+    {
+        "sensorId": "56UJGBWZ",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.820253156998267
+    },
+    {
+        "sensorId": "DHOL1YUJ",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9090861658930702
+    },
+    {
+        "sensorId": "0UX4FSOF",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9232824983957941
+    },
+    {
+        "sensorId": "D9GDITZD",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9517914573322462
+    },
+    {
+        "sensorId": "CCRMEOE7",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9900856287606359
+    },
+    {
+        "sensorId": "J7AOQA0D",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9486596106736753
+    },
+    {
+        "sensorId": "VMWX4I7T",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.8081758249031573
+    },
+    {
+        "sensorId": "JGKRSPZL",
+        "setTemp": 82,
+        "thermostat": true,
+        "efficiency": 0.9013064180816354
+    },
+    {
+        "sensorId": "4HOE3RXC",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9681704577858298
+    },
+    {
+        "sensorId": "1XQRQ0XM",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9868683750021636
+    },
+    {
+        "sensorId": "CURC6NV2",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.997847235535569
+    },
+    {
+        "sensorId": "C3L2MUHC",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9598667311671332
+    },
+    {
+        "sensorId": "Z3HV509D",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.8697115930872915
+    },
+    {
+        "sensorId": "BSIW360C",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9304550714965286
+    },
+    {
+        "sensorId": "O3KSOHW6",
+        "setTemp": 80,
+        "thermostat": true,
+        "efficiency": 0.9636636573732981
+    },
+    {
+        "sensorId": "P0UUPW4Y",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.986311913418161
+    },
+    {
+        "sensorId": "WFC8I91L",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.9535646996015034
+    },
+    {
+        "sensorId": "DSRP4K1T",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9412650237412536
+    },
+    {
+        "sensorId": "3CGD0JDN",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9028191915459398
+    },
+    {
+        "sensorId": "U8HOHGPN",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.8303719911025024
+    },
+    {
+        "sensorId": "ADL50156",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.977738091677659
+    },
+    {
+        "sensorId": "RRZH57OZ",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9789019801770674
+    },
+    {
+        "sensorId": "VA7R3HBW",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.7673787032752868
+    },
+    {
+        "sensorId": "MR40T7RR",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9832813136771323
+    },
+    {
+        "sensorId": "S9Q78NF7",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9607774200167432
+    },
+    {
+        "sensorId": "UAE5PR5X",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9386767898893268
+    },
+    {
+        "sensorId": "F0AY2FDN",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.8922546735247574
+    },
+    {
+        "sensorId": "TAAIFH18",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9998295895062024
+    },
+    {
+        "sensorId": "A3GMKZIN",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9792247404744334
+    },
+    {
+        "sensorId": "R1L37M47",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9864815607461275
+    },
+    {
+        "sensorId": "IIPJ5DL3",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9760815360342117
+    },
+    {
+        "sensorId": "8OUCYP54",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9530323412743875
+    },
+    {
+        "sensorId": "2CB72AGW",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.722132032617976
+    },
+    {
+        "sensorId": "G3LBVVC3",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9848672308469781
+    },
+    {
+        "sensorId": "QA627F8H",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8983143571001971
+    },
+    {
+        "sensorId": "WFWYAVNZ",
+        "setTemp": 75,
+        "thermostat": true,
+        "efficiency": 0.8097582547696819
+    },
+    {
+        "sensorId": "MYAT6FIS",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9961233724407066
+    },
+    {
+        "sensorId": "DTZ8PO8A",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.7707153087239283
+    },
+    {
+        "sensorId": "NBZ5N46D",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.8738877030884286
+    },
+    {
+        "sensorId": "KDAJIUPD",
+        "setTemp": 69,
+        "thermostat": true,
+        "efficiency": 0.9106163266140994
+    },
+    {
+        "sensorId": "VR66DTCH",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9907094163555348
+    },
+    {
+        "sensorId": "Z8Z2676X",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9892619538933983
+    },
+    {
+        "sensorId": "IXE4HCQY",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9681416332771533
+    },
+    {
+        "sensorId": "3FGUW7GM",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9872766064683562
+    },
+    {
+        "sensorId": "RLCYET9V",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9060681193715914
+    },
+    {
+        "sensorId": "PN8RHZSD",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9616084170629797
+    },
+    {
+        "sensorId": "GP538S23",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8971669905366442
+    },
+    {
+        "sensorId": "UNT9XMLD",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9334868546311362
+    },
+    {
+        "sensorId": "5E60GAOX",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.897912953112668
+    },
+    {
+        "sensorId": "JZH2QFJI",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9474607971980058
+    },
+    {
+        "sensorId": "T74C7O7D",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9953754098766888
+    },
+    {
+        "sensorId": "6T0USHEC",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9532766199792514
+    },
+    {
+        "sensorId": "5AZWQB83",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.8981994588030506
+    },
+    {
+        "sensorId": "WYN4AEFW",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9582960232040001
+    },
+    {
+        "sensorId": "GGQXSACT",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9986193196982166
+    },
+    {
+        "sensorId": "LIHTZ3B5",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9911250445594822
+    },
+    {
+        "sensorId": "8IABM56R",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.7656159181113492
+    },
+    {
+        "sensorId": "X7TKDJI9",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.8794106286036218
+    },
+    {
+        "sensorId": "TUOPWO5T",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9590048967364337
+    },
+    {
+        "sensorId": "PCFVVMBU",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.6905106126457851
+    },
+    {
+        "sensorId": "ORRXINH1",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9844183948753853
+    },
+    {
+        "sensorId": "ZCPI7W7Z",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8210679679610573
+    },
+    {
+        "sensorId": "U6WP7QD9",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9574552464474074
+    },
+    {
+        "sensorId": "WZ3BJ92K",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9874514072811049
+    },
+    {
+        "sensorId": "P6VUXDBO",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9862376519997135
+    },
+    {
+        "sensorId": "XPQIUKYQ",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9667479593377507
+    },
+    {
+        "sensorId": "X4QBN8ZY",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.8885273051564463
+    },
+    {
+        "sensorId": "A7YOYKNZ",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9528830529760082
+    },
+    {
+        "sensorId": "GII02LM1",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9829511134899811
+    },
+    {
+        "sensorId": "UHVUJSS3",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.987350990039024
+    },
+    {
+        "sensorId": "Y8G7B3FX",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9151714502204171
+    },
+    {
+        "sensorId": "M1LQUZ71",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.5004854239968866
+    },
+    {
+        "sensorId": "H8C9E06R",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9192226109831274
+    },
+    {
+        "sensorId": "YX35XI73",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9997808393225409
+    },
+    {
+        "sensorId": "C5AYU1DF",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9684369442993057
+    },
+    {
+        "sensorId": "GBRGS51V",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9897793751480932
+    },
+    {
+        "sensorId": "9724TV2T",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9446615743656324
+    },
+    {
+        "sensorId": "71J1VXMM",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9928434377845903
+    },
+    {
+        "sensorId": "CEPCURRE",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9653432095547579
+    },
+    {
+        "sensorId": "5MQ8W317",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.7895553416929476
+    },
+    {
+        "sensorId": "57I874S7",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9009593941249111
+    },
+    {
+        "sensorId": "49E6806I",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.954938421602851
+    },
+    {
+        "sensorId": "VJKF6GJ7",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9943293764128613
+    },
+    {
+        "sensorId": "FVIOPSHD",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9978231917967658
+    },
+    {
+        "sensorId": "9412AFLO",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.8321117124215116
+    },
+    {
+        "sensorId": "7RKLIPG4",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.94868940923906
+    },
+    {
+        "sensorId": "3JAUUBYQ",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9830979068815194
+    },
+    {
+        "sensorId": "VUVOA0MT",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.91537418711373
+    },
+    {
+        "sensorId": "JNM9HCQ5",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.9267401381048472
+    },
+    {
+        "sensorId": "WYKFKU5G",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9474369377041013
+    },
+    {
+        "sensorId": "S46EPJ0M",
+        "setTemp": 91,
+        "thermostat": true,
+        "efficiency": 0.9636385782519203
+    },
+    {
+        "sensorId": "HL1292N9",
+        "setTemp": 77,
+        "thermostat": true,
+        "efficiency": 0.6567506766665053
+    },
+    {
+        "sensorId": "E9OFJKNB",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.990704582993651
+    },
+    {
+        "sensorId": "5HXVA5FM",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.8998466620524749
+    },
+    {
+        "sensorId": "HQD61XTB",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.8068775567179133
+    },
+    {
+        "sensorId": "2ZASR157",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.8142732873518261
+    },
+    {
+        "sensorId": "JGX1WDJ4",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9916774143406191
+    },
+    {
+        "sensorId": "AP98E0K4",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.8827471033389747
+    },
+    {
+        "sensorId": "OQAMN3G4",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9649084696933748
+    },
+    {
+        "sensorId": "VDW9RC3T",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9875416836473004
+    },
+    {
+        "sensorId": "1ZHMSS2Y",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9989830321434996
+    },
+    {
+        "sensorId": "J02Y7BQ0",
+        "setTemp": 88,
+        "thermostat": true,
+        "efficiency": 0.7542292697629971
+    },
+    {
+        "sensorId": "NWIU00NH",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.8281016086076359
+    },
+    {
+        "sensorId": "WZKPXZRY",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9240813507444461
+    },
+    {
+        "sensorId": "98NZAJ1A",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9975502299168972
+    },
+    {
+        "sensorId": "B7WK7OX5",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.73484358911534
+    },
+    {
+        "sensorId": "SEWVWBJZ",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.8389139678457285
+    },
+    {
+        "sensorId": "HXHEGOCV",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9414134932304237
+    },
+    {
+        "sensorId": "B8TN0T1I",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.8914097653171262
+    },
+    {
+        "sensorId": "13TX1KLD",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9642673260752325
+    },
+    {
+        "sensorId": "4C7SOE2M",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.9575912246567864
+    },
+    {
+        "sensorId": "QJS58LQV",
+        "setTemp": 89,
+        "thermostat": true,
+        "efficiency": 0.9103558507553597
+    },
+    {
+        "sensorId": "55GUODFC",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9232383686496263
+    },
+    {
+        "sensorId": "J56CNHZH",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9940600750804356
+    },
+    {
+        "sensorId": "V9T7O6XC",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8177759912216104
+    },
+    {
+        "sensorId": "H4XS3B1Q",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.744608998328689
+    },
+    {
+        "sensorId": "MB9NBOWL",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.982843236560717
+    },
+    {
+        "sensorId": "MPCYLNJH",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9132474186033758
+    },
+    {
+        "sensorId": "WPRVAAB6",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.94876464432075
+    },
+    {
+        "sensorId": "IGPE9EQY",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9105871532272218
+    },
+    {
+        "sensorId": "9MSY46YM",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.8986497740114837
+    },
+    {
+        "sensorId": "AONYGWVU",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.8240028504156134
+    },
+    {
+        "sensorId": "TO6JWOZ8",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9809744721100092
+    },
+    {
+        "sensorId": "7PDL2ZHS",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.7590369179364849
+    },
+    {
+        "sensorId": "6XCAV8FO",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9457389179452333
+    },
+    {
+        "sensorId": "5Y4AJXGZ",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.902651512795801
+    },
+    {
+        "sensorId": "T3VK761Y",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9275599658240095
+    },
+    {
+        "sensorId": "SILK9YYZ",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.8800592335391796
+    },
+    {
+        "sensorId": "A6N31AFU",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.8418976410827657
+    },
+    {
+        "sensorId": "ORSRTERB",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9683857122750383
+    },
+    {
+        "sensorId": "7UES990M",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9183153099888577
+    },
+    {
+        "sensorId": "QSDS2JK8",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9131388744644603
+    },
+    {
+        "sensorId": "HP7W55XW",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9979469015205498
+    },
+    {
+        "sensorId": "I19FMLPC",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.8991393876373828
+    },
+    {
+        "sensorId": "FSDBNJGU",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9305401419861503
+    },
+    {
+        "sensorId": "5UPXD319",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.876576233436287
+    },
+    {
+        "sensorId": "UZKSY7P4",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9869693514215164
+    },
+    {
+        "sensorId": "OPD30MVY",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9851758178603001
+    },
+    {
+        "sensorId": "PPTT2ZNI",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9059425210753893
+    },
+    {
+        "sensorId": "026M4L8I",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9294002655188098
+    },
+    {
+        "sensorId": "V9TKZAXJ",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.8746228762406917
+    },
+    {
+        "sensorId": "3TDVAM4M",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9871991396619482
+    },
+    {
+        "sensorId": "5MBK2335",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.8701813431075726
+    },
+    {
+        "sensorId": "2MEJ51NB",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9837622309422394
+    },
+    {
+        "sensorId": "VVWMNNRS",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.9469359684327762
+    },
+    {
+        "sensorId": "E503D6OT",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9719992853920925
+    },
+    {
+        "sensorId": "81S8KL1Z",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8558649330885221
+    },
+    {
+        "sensorId": "1LOHJY4C",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.8352992823060733
+    },
+    {
+        "sensorId": "KZV8L6D6",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9370730971196531
+    },
+    {
+        "sensorId": "QYUM900Z",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.8328586718628925
+    },
+    {
+        "sensorId": "U2IL4U46",
+        "setTemp": 81,
+        "thermostat": true,
+        "efficiency": 0.9160389677452503
+    },
+    {
+        "sensorId": "YO7IX2N7",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9569562561861383
+    },
+    {
+        "sensorId": "YF1FBH6G",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9830535781932822
+    },
+    {
+        "sensorId": "IIY3TOXP",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9025875499346633
+    },
+    {
+        "sensorId": "UR2SBP4M",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8715983974504171
+    },
+    {
+        "sensorId": "4J44HRX0",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9854740726078047
+    },
+    {
+        "sensorId": "Y0RJF2PQ",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.7593842150660338
+    },
+    {
+        "sensorId": "WF00SAOZ",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.7575629134126046
+    },
+    {
+        "sensorId": "PJJUVBMW",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9543894813290432
+    },
+    {
+        "sensorId": "YXV07N05",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9308218259040947
+    },
+    {
+        "sensorId": "TIM8KEGQ",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.7636187738293272
+    },
+    {
+        "sensorId": "TTCKVEQH",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9227704777046475
+    },
+    {
+        "sensorId": "U86R4LRX",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.7262278500513621
+    },
+    {
+        "sensorId": "M11DK1LX",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9745116638135334
+    },
+    {
+        "sensorId": "2JFXMAIL",
+        "setTemp": 75,
+        "thermostat": false,
+        "efficiency": 0.9614812959052736
+    },
+    {
+        "sensorId": "YTPNJZ4E",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.717967588629492
+    },
+    {
+        "sensorId": "5SSQVUED",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.980929046078591
+    },
+    {
+        "sensorId": "9FCW2FCQ",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9829711934174468
+    },
+    {
+        "sensorId": "MZCGZYSO",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.913529940403043
+    },
+    {
+        "sensorId": "H8FQZ9I0",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9863800153256971
+    },
+    {
+        "sensorId": "OTGNHTOR",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.7582398492997751
+    },
+    {
+        "sensorId": "CZRH1OU9",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9790425062029977
+    },
+    {
+        "sensorId": "OQA07CBN",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9837339536638362
+    },
+    {
+        "sensorId": "A5W43C89",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9902004391296788
+    },
+    {
+        "sensorId": "3G1A6A74",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9593939194285243
+    },
+    {
+        "sensorId": "KDJAEAC3",
+        "setTemp": 82,
+        "thermostat": true,
+        "efficiency": 0.9043478801087096
+    },
+    {
+        "sensorId": "GTZ7RZO9",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.8422401324000515
+    },
+    {
+        "sensorId": "XNISE5KP",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9396409945244614
+    },
+    {
+        "sensorId": "2MNKITEI",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9970987672303048
+    },
+    {
+        "sensorId": "J649BUS2",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.8313522196613249
+    },
+    {
+        "sensorId": "AM4FCO6O",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.92562872242579
+    },
+    {
+        "sensorId": "950XZOUA",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9514655380737513
+    },
+    {
+        "sensorId": "C6279W8K",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.8374025614037908
+    },
+    {
+        "sensorId": "EUGG2BKZ",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9708514893385678
+    },
+    {
+        "sensorId": "5PO95QIM",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9347976003937802
+    },
+    {
+        "sensorId": "XJ1FU93A",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9321123869515222
+    },
+    {
+        "sensorId": "ZREQWJBN",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9310526649114813
+    },
+    {
+        "sensorId": "WR5Y5YMA",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.881864869320814
+    },
+    {
+        "sensorId": "VQ28PUGL",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.8799139787313685
+    },
+    {
+        "sensorId": "0V1N1MJE",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.7930121041222397
+    },
+    {
+        "sensorId": "7ODMLKN3",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.8723682230910654
+    },
+    {
+        "sensorId": "S1G09UIN",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.9313422683539407
+    },
+    {
+        "sensorId": "KR0A54ER",
+        "setTemp": 76,
+        "thermostat": true,
+        "efficiency": 0.9649825941443859
+    },
+    {
+        "sensorId": "C7JKDWR9",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9744638933709174
+    },
+    {
+        "sensorId": "AQXB2G01",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.8723606717851375
+    },
+    {
+        "sensorId": "CRUUNIH9",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.9554389499973613
+    },
+    {
+        "sensorId": "N5MVIO1V",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9691126212864647
+    },
+    {
+        "sensorId": "8LUBHJAU",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9978757232027252
+    },
+    {
+        "sensorId": "TOTALKJU",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9891488480319474
+    },
+    {
+        "sensorId": "S4NC2D00",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9501464082682423
+    },
+    {
+        "sensorId": "2QNCLBXF",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9263840839026889
+    },
+    {
+        "sensorId": "B8W9WWF0",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9467373348668525
+    },
+    {
+        "sensorId": "XIHHX8TH",
+        "setTemp": 83,
+        "thermostat": true,
+        "efficiency": 0.9488272904802495
+    },
+    {
+        "sensorId": "PVEC7A5D",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9553228051697585
+    },
+    {
+        "sensorId": "XVJ580YR",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8798620430893089
+    },
+    {
+        "sensorId": "64K6FBHL",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.8694894225295942
+    },
+    {
+        "sensorId": "O2IK39E2",
+        "setTemp": 93,
+        "thermostat": false,
+        "efficiency": 0.9931701080919202
+    },
+    {
+        "sensorId": "SU1YIGZ5",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8467108985429046
+    },
+    {
+        "sensorId": "TFPIR5FI",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.9945969210403414
+    },
+    {
+        "sensorId": "FHKDLJ0X",
+        "setTemp": 86,
+        "thermostat": false,
+        "efficiency": 0.8296588194869491
+    },
+    {
+        "sensorId": "4X8NSP6Z",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9430819918879175
+    },
+    {
+        "sensorId": "FNWAH9LU",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9954578187029661
+    },
+    {
+        "sensorId": "QF29TC0L",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.9039157258587966
+    },
+    {
+        "sensorId": "IWSWTOME",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.8147583285616028
+    },
+    {
+        "sensorId": "UB1PEYA7",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.8586371413413196
+    },
+    {
+        "sensorId": "WXGM9R0E",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.8075729111548748
+    },
+    {
+        "sensorId": "CPHGRT7W",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9673331691370454
+    },
+    {
+        "sensorId": "FU3CJ2N1",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.8145896063585771
+    },
+    {
+        "sensorId": "5JDDJE12",
+        "setTemp": 78,
+        "thermostat": false,
+        "efficiency": 0.8551129430139699
+    },
+    {
+        "sensorId": "1J80AOFG",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9745128286181304
+    },
+    {
+        "sensorId": "5O1LUNG1",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9959497264122665
+    },
+    {
+        "sensorId": "YPFG7N99",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.984593851722597
+    },
+    {
+        "sensorId": "J3T10PCS",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9901021785971993
+    },
+    {
+        "sensorId": "03VGNUQZ",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.8620664270004543
+    },
+    {
+        "sensorId": "E95BT9TT",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.9274078381118809
+    },
+    {
+        "sensorId": "45SF2NJ3",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9425349901144836
+    },
+    {
+        "sensorId": "LU5EK436",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.928842405518185
+    },
+    {
+        "sensorId": "S6ZZFNW5",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.7401580442748694
+    },
+    {
+        "sensorId": "F7KM3698",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9015522899176588
+    },
+    {
+        "sensorId": "C00FP9FI",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9725014097100935
+    },
+    {
+        "sensorId": "K34UHRA6",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9291414240512145
+    },
+    {
+        "sensorId": "CVPHKPM3",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9454154873356686
+    },
+    {
+        "sensorId": "RQSRL1WH",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.7223871250080245
+    },
+    {
+        "sensorId": "FKL3GBOG",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9360888600152304
+    },
+    {
+        "sensorId": "CB3QLCPC",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9881540826379757
+    },
+    {
+        "sensorId": "FDZM5X5S",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.8723568958859745
+    },
+    {
+        "sensorId": "LT28ABVY",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.8792398694191472
+    },
+    {
+        "sensorId": "DENMKXPY",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9846415479065996
+    },
+    {
+        "sensorId": "07U7514T",
+        "setTemp": 71,
+        "thermostat": false,
+        "efficiency": 0.9623364451679025
+    },
+    {
+        "sensorId": "7NMME8VW",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9529532504354419
+    },
+    {
+        "sensorId": "8B4B9996",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8885335740674506
+    },
+    {
+        "sensorId": "8IDBP0J6",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8783492888290161
+    },
+    {
+        "sensorId": "08ZED80U",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9974375840434784
+    },
+    {
+        "sensorId": "EW6SWYUZ",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.8573945290914748
+    },
+    {
+        "sensorId": "HPEXLCHT",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.9864389261281573
+    },
+    {
+        "sensorId": "VVZICIZK",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9505249125253533
+    },
+    {
+        "sensorId": "90QOJ5UK",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.7648772404637547
+    },
+    {
+        "sensorId": "8VY06BA3",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.910516610396346
+    },
+    {
+        "sensorId": "16J1D782",
+        "setTemp": 88,
+        "thermostat": false,
+        "efficiency": 0.9404154195103824
+    },
+    {
+        "sensorId": "LI6AI8D1",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9551060705573888
+    },
+    {
+        "sensorId": "YIONDVK5",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9293826417191389
+    },
+    {
+        "sensorId": "OROTI5GS",
+        "setTemp": 72,
+        "thermostat": false,
+        "efficiency": 0.7276778815330671
+    },
+    {
+        "sensorId": "23ZP99P2",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9368469533625257
+    },
+    {
+        "sensorId": "XR79BOYC",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.8808914786093498
+    },
+    {
+        "sensorId": "WVF7F58F",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8148389060803638
+    },
+    {
+        "sensorId": "3YF7F6CW",
+        "setTemp": 77,
+        "thermostat": false,
+        "efficiency": 0.9995506477663094
+    },
+    {
+        "sensorId": "B33YES3T",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.8626510808370075
+    },
+    {
+        "sensorId": "CW4RW23F",
+        "setTemp": 86,
+        "thermostat": true,
+        "efficiency": 0.8836801473369775
+    },
+    {
+        "sensorId": "UN3MBK28",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9878119511376982
+    },
+    {
+        "sensorId": "I4S829PB",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9233517998726288
+    },
+    {
+        "sensorId": "Z2S1XCYF",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.8313764328878752
+    },
+    {
+        "sensorId": "NZMCQ1XN",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.9879447743843943
+    },
+    {
+        "sensorId": "JAFZABFN",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8623804262838979
+    },
+    {
+        "sensorId": "5OGH9K2G",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9534549262476583
+    },
+    {
+        "sensorId": "I375I1CP",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9130136443314203
+    },
+    {
+        "sensorId": "5062O58F",
+        "setTemp": 80,
+        "thermostat": false,
+        "efficiency": 0.9533999875020157
+    },
+    {
+        "sensorId": "EWHRUACS",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.9216238721425194
+    },
+    {
+        "sensorId": "SHP2HX8G",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.8418225407477185
+    },
+    {
+        "sensorId": "96SJRFGC",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.7798874908572355
+    },
+    {
+        "sensorId": "KAT9SYVY",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.877039003663976
+    },
+    {
+        "sensorId": "D8VX8CP0",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9312598967858913
+    },
+    {
+        "sensorId": "KLPENUMH",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9318234399930769
+    },
+    {
+        "sensorId": "QES6ROSE",
+        "setTemp": 85,
+        "thermostat": false,
+        "efficiency": 0.9246457218431747
+    },
+    {
+        "sensorId": "Q5DDSPLH",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.7692550484824426
+    },
+    {
+        "sensorId": "WCKIY0OZ",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9639745643901092
+    },
+    {
+        "sensorId": "UHBP5KC9",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9261608065643291
+    },
+    {
+        "sensorId": "23KOHEXU",
+        "setTemp": 82,
+        "thermostat": false,
+        "efficiency": 0.9178692611660544
+    },
+    {
+        "sensorId": "VRS6SPBJ",
+        "setTemp": 91,
+        "thermostat": false,
+        "efficiency": 0.9962277565281321
+    },
+    {
+        "sensorId": "MJTXSDA1",
+        "setTemp": 69,
+        "thermostat": false,
+        "efficiency": 0.9843164880786833
+    },
+    {
+        "sensorId": "KLGQCELR",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.995141492707436
+    },
+    {
+        "sensorId": "HQ1O7700",
+        "setTemp": 85,
+        "thermostat": true,
+        "efficiency": 0.9395521968717653
+    },
+    {
+        "sensorId": "MV06ODPW",
+        "setTemp": 89,
+        "thermostat": false,
+        "efficiency": 0.8461459689155362
+    },
+    {
+        "sensorId": "JBZ4LAP2",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8904523808187867
+    },
+    {
+        "sensorId": "D8EDP4LD",
+        "setTemp": 93,
+        "thermostat": true,
+        "efficiency": 0.9647469976797461
+    },
+    {
+        "sensorId": "A9IZNX4X",
+        "setTemp": 83,
+        "thermostat": false,
+        "efficiency": 0.9492131327866762
+    },
+    {
+        "sensorId": "MTRNLYZ7",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9467501636524578
+    },
+    {
+        "sensorId": "4TH1MBCU",
+        "setTemp": 74,
+        "thermostat": false,
+        "efficiency": 0.9753901342819772
+    },
+    {
+        "sensorId": "PAZ9G59L",
+        "setTemp": 79,
+        "thermostat": false,
+        "efficiency": 0.8580291909295621
+    },
+    {
+        "sensorId": "5EHJ1M9L",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.9041517128624467
+    },
+    {
+        "sensorId": "8RN472J6",
+        "setTemp": 81,
+        "thermostat": false,
+        "efficiency": 0.9869158485403388
+    },
+    {
+        "sensorId": "ET1NKF4C",
+        "setTemp": 90,
+        "thermostat": false,
+        "efficiency": 0.9021465255568666
+    },
+    {
+        "sensorId": "MEQNJQVK",
+        "setTemp": 92,
+        "thermostat": false,
+        "efficiency": 0.9872997325095154
+    },
+    {
+        "sensorId": "1YCWRVBO",
+        "setTemp": 84,
+        "thermostat": false,
+        "efficiency": 0.8420583520507445
+    },
+    {
+        "sensorId": "4C72D8VG",
+        "setTemp": 76,
+        "thermostat": false,
+        "efficiency": 0.9913949554773271
+    },
+    {
+        "sensorId": "Z64OIYH3",
+        "setTemp": 73,
+        "thermostat": false,
+        "efficiency": 0.8722926804733444
+    },
+    {
+        "sensorId": "SSO3NBKI",
+        "setTemp": 70,
+        "thermostat": false,
+        "efficiency": 0.7390788216582219
+    },
+    {
+        "sensorId": "AWKHVYUQ",
+        "setTemp": 87,
+        "thermostat": false,
+        "efficiency": 0.755456358334203
+    }
+]
