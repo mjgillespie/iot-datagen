@@ -30,6 +30,11 @@ fs.mkdirSync(basePath);
 function convertTime(m){
 	return m.format('YYYY-MM-DD HH:mm:ss.SSSSSSSSS');
 }
+
+function convertTimeDay(m){
+	return m.format('YYYYMMDD');
+}
+
 function minuteOfDay(m){
 	return m.hour()*60 + m.minute();
 }
@@ -69,17 +74,25 @@ if (process.argv[2] == "--lastyear") {
 }
 
 
+var tempFile = randomstring.generate({
+				length: 12,
+				capitalization: 'uppercase',
+  				charset: 'alphanumeric'
+			});
+
+
 for (var i=0; i < sensors.length; i++) {
 	var ts = moment(baseMoment);
 	var sensor = sensors[i];
 //	var path =  basePath + "/sensorid=" + sensor.sensorId;
 
-	var tempFile = randomstring.generate({
+	if (process.argv[2] == "--lastyear") {
+		tempFile = randomstring.generate({
 				length: 12,
 				capitalization: 'uppercase',
   				charset: 'alphanumeric'
 			});
-	
+	}
 //	fs.mkdirSync(path);
 	
 	//path = path + "/";
@@ -99,7 +112,8 @@ for (var i=0; i < sensors.length; i++) {
 		var heaterMinutes = Math.max(0, Math.ceil( timeInterval * 60 * (Math.min(deviceMax, sensor.setTemp) - ambientActual) / (deviceMax-ambientActual)));
 		
 		var logData = "\"" + sensor.sensorId + "\"," + convertTime(ts) + ", " + (Math.floor(0.5 + ambientActual*10))/10 +  ", " + sensor.setTemp + ", " + (Math.floor(waterTemp*10 + 0.5)) / 10 + ", " + heaterMinutes;
-		var logFile = basePath + '/sensor_data.' + sensor.sensorId + '.' + tempFile + '.log';
+		var logFile = basePath + '/sensor_data.' + convertTimeDay(ts) + '.'+ tempFile + '.log';
+
 
 		fs.appendFileSync(logFile, logData + '\n');
 	
